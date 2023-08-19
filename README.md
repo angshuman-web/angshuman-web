@@ -6,8 +6,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=angshuman-web&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=outrun&locale=en&hide_border=false" height="180" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=angshuman-web&locale=en&mode=daily&theme=outrun&hide_border=false&border_radius=50" height="170" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angshuman-web&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=outrun&hide_border=false" height="160" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=angshuman-web&locale=en&mode=daily&theme=outrun&hide_border=false&border_radius=11" height="170" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angshuman-web&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=outrun&hide_border=false" height="110" alt="languages graph"  />
 </div>
 
 ###
