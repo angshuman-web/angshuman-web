@@ -2,15 +2,17 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angshuman-web&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=outrun&locale=en&hide_border=false" height="180" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=angshuman-web&locale=en&mode=daily&theme=outrun&hide_border=false&border_radius=50" height="170" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=angshuman-web&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=outrun&locale=en&hide_border=false" height="180" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=angshuman-web&locale=en&mode=daily&theme=outrun&hide_border=false&border_radius=50" height="170" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angshuman-web&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=outrun&hide_border=false" height="160" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -26,7 +28,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+<img align="right" height="200" src="https://img.freepik.com/premium-vector/coder-developer-concentrated-working-project-developing-programming-coding-technologies_569013-336.jpg?w=740"  />
 
 ###
 
@@ -54,20 +56,12 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/angshuman-web/angshuman-web/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=angshuman-web.angshuman-web&right_color=violet"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"  />
 </div>
 
 ###
