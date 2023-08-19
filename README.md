@@ -5,15 +5,15 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angshuman-web&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=outrun&locale=en&hide_border=false" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=angshuman-web&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=outrun&locale=en&hide_border=false" height="180" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angshuman-web&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=outrun&hide_border=false" height="110" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=angshuman-web&locale=en&mode=daily&theme=outrun&hide_border=false&border_radius=11" height="170" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angshuman-web&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=outrun&hide_border=false" height="110" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -28,7 +28,7 @@
 
 ###
 
-<img align="right" height="200" src="https://img.freepik.com/premium-vector/coder-developer-concentrated-working-project-developing-programming-coding-technologies_569013-336.jpg?w=740"  />
+<img align="right" height="200" src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif"  />
 
 ###
 
@@ -53,10 +53,6 @@
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/angshuman-web/angshuman-web/output/snake.svg" alt="Snake animation" />
 
 ###
 
