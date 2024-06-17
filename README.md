@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Angshuman!!😎 I'm a Web Developer and Graphic Designer.🚀</h2>
+<h2 align="left">Hi 👋! My name is Angshuman!!😎 I'm a Front end Developer and UI UX Designer.🚀</h2>
 
 ###
 
